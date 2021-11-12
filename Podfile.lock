@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.4.4)
+  - InfiniteCarouselCollectionView (0.1.3)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - TTGSnackbar (1.10.5)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - InfiniteCarouselCollectionView
+  - Moya
+  - TTGSnackbar
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - InfiniteCarouselCollectionView
+    - Moya
+    - TTGSnackbar
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  InfiniteCarouselCollectionView: d63e9c834ff41f4d2ce99a2b58c9bb679bb14ab5
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  TTGSnackbar: 2bd245d2bbf83639483410273fd936af0b7ba2a9
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: fb45bec4c14b773209066cce9d79b4d7c8d1fbf5
+
+COCOAPODS: 1.11.2
